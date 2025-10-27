@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudyTracker</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            padding: 2rem;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        .instructions {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: left;
+        }
+        code {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>StudyTracker</h1>
+        <p>Student Productivity Web Application</p>
+        <div class="instructions">
+            <h3>Setup Instructions:</h3>
+            <ol>
+                <li>Build the React frontend:
+                    <br><code>cd frontend && npm install && npm run build</code>
+                </li>
+                <li>Copy build to static folder:
+                    <br><code>cp -r build/* ../static/</code>
+                </li>
+                <li>Run the Flask app:
+                    <br><code>cd .. && python app.py</code>
+                </li>
+            </ol>
+            <p><strong>For development:</strong></p>
+            <ul>
+                <li>Terminal 1: <code>python app.py</code></li>
+                <li>Terminal 2: <code>cd frontend && npm start</code></li>
+                <li>Access at <code>http://localhost:3000</code></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
