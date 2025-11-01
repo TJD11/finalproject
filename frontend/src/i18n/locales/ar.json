@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "الرفيق الإسلامي",
+    "welcome": "أهلا بك في الرفيق الإسلامي"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "qibla": "القبلة",
+    "prayers": "أوقات الصلاة",
+    "quran": "القرآن",
+    "hadith": "الحديث",
+    "adhkar": "الأذكار",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "nextPrayer": "الصلاة القادمة",
+    "timeRemaining": "الوقت المتبقي",
+    "lastRead": "آخر ما قرأت",
+    "todaysHadith": "حديث اليوم",
+    "morningAdhkar": "أذكار الصباح",
+    "eveningAdhkar": "أذكار المساء"
+  },
+  "prayers": {
+    "fajr": "الفجر",
+    "sunrise": "الشروق",
+    "dhuhr": "الظهر",
+    "asr": "العصر",
+    "maghrib": "المغرب",
+    "isha": "العشاء"
+  },
+  "qibla": {
+    "title": "اتجاه القبلة",
+    "bearing": "الاتجاه",
+    "distance": "المسافة",
+    "accuracy": "الدقة",
+    "degrees": "درجة",
+    "km": "كم",
+    "meters": "متر",
+    "recenter": "إعادة توسيط",
+    "showMap": "عرض الخريطة",
+    "moveDevice": "حرك الجهاز لتحسين الدقة"
+  },
+  "quran": {
+    "title": "القرآن الكريم",
+    "surah": "السورة",
+    "verse": "الآية",
+    "search": "ابحث في القرآن",
+    "reciter": "المقرئ",
+    "speed": "السرعة",
+    "repeat": "التكرار",
+    "translation": "الترجمة",
+    "tafsir": "التفسير",
+    "bookmark": "حفظ"
+  },
+  "hadith": {
+    "title": "الحديث",
+    "collection": "المجموعة",
+    "book": "الكتاب",
+    "search": "ابحث في الأحاديث",
+    "narrator": "الراوي",
+    "chain": "سند الحديث",
+    "source": "المصدر"
+  },
+  "adhkar": {
+    "title": "الأذكار",
+    "morning": "أذكار الصباح",
+    "evening": "أذكار المساء",
+    "sleep": "أذكار النوم",
+    "wake": "أذكار الاستيقاظ",
+    "travel": "أذكار السفر",
+    "prayer": "أذكار الصلاة",
+    "ablution": "أذكار بعد الوضوء",
+    "repetitions": "عدد التكرارات",
+    "completed": "مكتمل",
+    "streak": "متتالية أيام"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "prayerPreferences": "تفضيلات الصلاة",
+    "notificationPreferences": "الإشعارات",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "داكن",
+    "method": "طريقة الحساب",
+    "madhab": "المذهب الفقهي",
+    "location": "الموقع",
+    "privacyPolicy": "سياسة الخصوصية"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "retry": "إعادة محاولة",
+    "ok": "حسنا",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "back": "رجوع"
+  }
+}
