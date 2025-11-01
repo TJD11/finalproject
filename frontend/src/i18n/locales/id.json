@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "Pendamping Islam",
+    "welcome": "Selamat Datang di Pendamping Islam"
+  },
+  "navigation": {
+    "home": "Beranda",
+    "qibla": "Kiblat",
+    "prayers": "Waktu Shalat",
+    "quran": "Al-Qur'an",
+    "hadith": "Hadits",
+    "adhkar": "Dzikir",
+    "settings": "Pengaturan"
+  },
+  "dashboard": {
+    "nextPrayer": "Shalat Berikutnya",
+    "timeRemaining": "Waktu Tersisa",
+    "lastRead": "Bacaan Terakhir",
+    "todaysHadith": "Hadits Hari Ini",
+    "morningAdhkar": "Dzikir Pagi",
+    "eveningAdhkar": "Dzikir Sore"
+  },
+  "prayers": {
+    "fajr": "Subuh",
+    "sunrise": "Terbit",
+    "dhuhr": "Zuhur",
+    "asr": "Ashar",
+    "maghrib": "Maghrib",
+    "isha": "Isya"
+  },
+  "qibla": {
+    "title": "Arah Kiblat",
+    "bearing": "Arah",
+    "distance": "Jarak",
+    "accuracy": "Akurasi",
+    "degrees": "derajat",
+    "km": "km",
+    "meters": "meter",
+    "recenter": "Pusatkan Kembali",
+    "showMap": "Tampilkan Peta",
+    "moveDevice": "Gerakkan perangkat untuk meningkatkan akurasi"
+  },
+  "quran": {
+    "title": "Al-Qur'an",
+    "surah": "Surah",
+    "verse": "Ayat",
+    "search": "Cari di Al-Qur'an",
+    "reciter": "Pembaca",
+    "speed": "Kecepatan",
+    "repeat": "Ulangi",
+    "translation": "Terjemahan",
+    "tafsir": "Tafsir",
+    "bookmark": "Tandai"
+  },
+  "hadith": {
+    "title": "Hadits",
+    "collection": "Koleksi",
+    "book": "Kitab",
+    "search": "Cari Hadits",
+    "narrator": "Perawi",
+    "chain": "Rantai Perawi",
+    "source": "Sumber"
+  },
+  "adhkar": {
+    "title": "Dzikir",
+    "morning": "Dzikir Pagi",
+    "evening": "Dzikir Sore",
+    "sleep": "Dzikir Tidur",
+    "wake": "Dzikir Bangun",
+    "travel": "Dzikir Perjalanan",
+    "prayer": "Dzikir Shalat",
+    "ablution": "Dzikir Setelah Wudu",
+    "repetitions": "Pengulangan",
+    "completed": "Selesai",
+    "streak": "Hari Berturut-turut"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "prayerPreferences": "Preferensi Shalat",
+    "notificationPreferences": "Notifikasi",
+    "language": "Bahasa",
+    "theme": "Tema",
+    "light": "Terang",
+    "dark": "Gelap",
+    "method": "Metode Perhitungan",
+    "madhab": "Mazhab",
+    "location": "Lokasi",
+    "privacyPolicy": "Kebijakan Privasi"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "retry": "Coba Lagi",
+    "ok": "OK",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "back": "Kembali"
+  }
+}
