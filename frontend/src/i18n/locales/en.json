@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "Islamic Companion",
+    "welcome": "Welcome to Islamic Companion"
+  },
+  "navigation": {
+    "home": "Home",
+    "qibla": "Qibla",
+    "prayers": "Prayer Times",
+    "quran": "Quran",
+    "hadith": "Hadith",
+    "adhkar": "Adhkar",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "nextPrayer": "Next Prayer",
+    "timeRemaining": "Time remaining",
+    "lastRead": "Last Read",
+    "todaysHadith": "Today's Hadith",
+    "morningAdhkar": "Morning Adhkar",
+    "eveningAdhkar": "Evening Adhkar"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha"
+  },
+  "qibla": {
+    "title": "Qibla Direction",
+    "bearing": "Bearing",
+    "distance": "Distance",
+    "accuracy": "Accuracy",
+    "degrees": "degrees",
+    "km": "km",
+    "meters": "meters",
+    "recenter": "Recenter",
+    "showMap": "Show Map",
+    "moveDevice": "Move device to improve accuracy"
+  },
+  "quran": {
+    "title": "Quran",
+    "surah": "Surah",
+    "verse": "Verse",
+    "search": "Search Quran",
+    "reciter": "Reciter",
+    "speed": "Speed",
+    "repeat": "Repeat",
+    "translation": "Translation",
+    "tafsir": "Tafsir",
+    "bookmark": "Bookmark"
+  },
+  "hadith": {
+    "title": "Hadith",
+    "collection": "Collection",
+    "book": "Book",
+    "search": "Search Hadith",
+    "narrator": "Narrator",
+    "chain": "Chain of Narrators",
+    "source": "Source"
+  },
+  "adhkar": {
+    "title": "Adhkar",
+    "morning": "Morning Adhkar",
+    "evening": "Evening Adhkar",
+    "sleep": "Sleep Adhkar",
+    "wake": "Wake-up Adhkar",
+    "travel": "Travel Adhkar",
+    "prayer": "Prayer Adhkar",
+    "ablution": "Post-Ablution Adhkar",
+    "repetitions": "Repetitions",
+    "completed": "Completed",
+    "streak": "Day Streak"
+  },
+  "settings": {
+    "title": "Settings",
+    "prayerPreferences": "Prayer Preferences",
+    "notificationPreferences": "Notifications",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "method": "Calculation Method",
+    "madhab": "Islamic School",
+    "location": "Location",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back"
+  }
+}
