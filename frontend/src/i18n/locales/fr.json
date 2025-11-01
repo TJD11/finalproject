@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "Compagnon Islamique",
+    "welcome": "Bienvenue dans Compagnon Islamique"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "qibla": "Qibla",
+    "prayers": "Horaires de Prière",
+    "quran": "Coran",
+    "hadith": "Hadith",
+    "adhkar": "Adhkar",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "nextPrayer": "Prochaine Prière",
+    "timeRemaining": "Temps restant",
+    "lastRead": "Dernière Lecture",
+    "todaysHadith": "Hadith du Jour",
+    "morningAdhkar": "Adhkar du Matin",
+    "eveningAdhkar": "Adhkar du Soir"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Lever du Soleil",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha"
+  },
+  "qibla": {
+    "title": "Direction de la Qibla",
+    "bearing": "Direction",
+    "distance": "Distance",
+    "accuracy": "Précision",
+    "degrees": "degrés",
+    "km": "km",
+    "meters": "mètres",
+    "recenter": "Recentrer",
+    "showMap": "Afficher la Carte",
+    "moveDevice": "Déplacez l'appareil pour améliorer la précision"
+  },
+  "quran": {
+    "title": "Le Saint Coran",
+    "surah": "Sourate",
+    "verse": "Verset",
+    "search": "Rechercher dans le Coran",
+    "reciter": "Récitant",
+    "speed": "Vitesse",
+    "repeat": "Répéter",
+    "translation": "Traduction",
+    "tafsir": "Tafsir",
+    "bookmark": "Ajouter un Signet"
+  },
+  "hadith": {
+    "title": "Hadith",
+    "collection": "Collection",
+    "book": "Livre",
+    "search": "Rechercher les Hadith",
+    "narrator": "Narrateur",
+    "chain": "Chaîne de Narrateurs",
+    "source": "Source"
+  },
+  "adhkar": {
+    "title": "Adhkar",
+    "morning": "Adhkar du Matin",
+    "evening": "Adhkar du Soir",
+    "sleep": "Adhkar du Sommeil",
+    "wake": "Adhkar du Réveil",
+    "travel": "Adhkar du Voyage",
+    "prayer": "Adhkar de la Prière",
+    "ablution": "Adhkar après les Ablutions",
+    "repetitions": "Répétitions",
+    "completed": "Complété",
+    "streak": "Série de Jours"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "prayerPreferences": "Préférences de Prière",
+    "notificationPreferences": "Notifications",
+    "language": "Langue",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "method": "Méthode de Calcul",
+    "madhab": "École Juridique",
+    "location": "Localisation",
+    "privacyPolicy": "Politique de Confidentialité"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer",
+    "ok": "OK",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour"
+  }
+}
