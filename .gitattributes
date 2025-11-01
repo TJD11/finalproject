@@ -1,0 +1,21 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# JavaScript
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Bash
+*.sh text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.db binary
+*.sqlite binary
